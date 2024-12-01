@@ -8,7 +8,7 @@ tags:
 
 A new year is approaching. I can't believe it's 2025 already. I mean, my memory is still stuck in 2020. But yeah, what can we do except celebrate? Hence, I've decided to get my favorite hobby back on track again and selectively share my perspectives publicly with those who might be interested.
 
-### A Flashback
+## A Flashback
 A couple of years ago, I started [Halawa.dev](https://www.halawa.dev/). The main theme was to provide fine-tuned articles on various technical subjects. I'll admit this was an unrealistic perspective and felt like a burden, as I'd spend days and days reviewing a single article. Eventually, I'd press the remove button because I was never satisfied. There are a few key points that led to this.
 
 ### Perfectionism Curse!
