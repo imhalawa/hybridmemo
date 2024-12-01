@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Mohamed Halawa"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Exploring backend development with the .NET stack, blending technical expertise with a passion for storytelling. Join me as I uncover the world of code and share engaging industry insights."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
