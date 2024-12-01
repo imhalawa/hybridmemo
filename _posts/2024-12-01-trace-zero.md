@@ -9,13 +9,13 @@ tags:
 A new year is approaching. I can't believe it's 2025 already. I mean, my memory is still stuck in 2020. But yeah, what can we do except celebrate? Hence, I've decided to get my favorite hobby back on track again and selectively share my perspectives publicly with those who might be interested.
 
 ### A Flashback
-A couple of years ago, I started Halawa.dev. The main theme was to provide fine-tuned articles on various technical subjects. I'll admit this was an unrealistic perspective and felt like a burden, as I'd spend days and days reviewing a single article. Eventually, I'd press the remove button because I was never satisfied. There are a few key points that led to this.
+A couple of years ago, I started [Halawa.dev](https://www.halawa.dev/). The main theme was to provide fine-tuned articles on various technical subjects. I'll admit this was an unrealistic perspective and felt like a burden, as I'd spend days and days reviewing a single article. Eventually, I'd press the remove button because I was never satisfied. There are a few key points that led to this.
 
 ### Perfectionism Curse!
-It will never happen. No matter how much you tune your creation, it will always have flaws as the environment changes, various circumstances occur, and the content becomes outdated at some point. One thing I learned this year is to favor pragmatism, efficiency, and simplicity over premature complexity. If someone asked me to build something that adds numbers, I'd give them an Abacus! But requirements are always the main ruler. Avoiding unnecessary spices is what gives you a delicious meal.
+It will never happen. No matter how much you tune your creation, it will always have flaws as the environment changes, various circumstances occur, and the content becomes outdated at some point. One thing I learned this year is to favor pragmatism, efficiency, and simplicity over premature complexity. If someone asked me to build something that adds numbers, I'd give them an [Abacus](https://en.wikipedia.org/wiki/Abacus)! But requirements are always the main ruler. Avoiding unnecessary spices is what gives you a delicious meal.
 
 ### The Ecosystem
-Starting as a simple blog created by Hashnode.com, I later moved to WordPress.com. That's where the time waste increased exponentially. It was like cutting a cake with a sword. The system is fully-fledged and easy to customize, but for someone like me, it's a curse! I would change the overall site identity over and over, deviating from the original goal, which means none of them fit my use case given my personality.
+Starting as a simple blog created by [Hashnode.com](https://mohamedhalawa.hashnode.dev/), I later moved to [WordPress.com](https://chatgpt.com/c/halawadev.wordpress.com). That's where the time waste increased exponentially. It was like cutting a cake with a sword. The system is fully-fledged and easy to customize, but for someone like me, it's a curse! I would change the overall site identity over and over, deviating from the original goal, which means none of them fit my use case given my personality.
 
 ### Bloated Perspectives
 The internet is bloated. If I counted how many blogs have unique and non-repetitive perspectives these days, my fingers might be enough to do the job. The sad truth is, I found myself going this way, and it was pointless. It's okay to write about something that millions have written about, but the perspective matters.
@@ -37,7 +37,7 @@ Dealing with ideas and concepts as a solid template that will never change is an
 Learning from mistakes is inevitable. It's my way of interpreting this world. I can't call myself a smart guy by any means. I'm an ignorant person trying to understand What, How, and Why in every single aspect of my life. While retrospectively recalling my attempts, I found the previous highlights.
 
 ### Changes Over Time
-As I'm assured that my understanding of some ideas is reshaped repeatedly as I learn more, I tended to call them traces. That's where the name Trace In Time came from.
+As I'm assured that my understanding of some ideas is reshaped repeatedly as I learn more, I tended to call them traces. That's where the name [Trace In Time](https://www.traceintime.com/) came from.
 
 ### No Promises
 I can't guarantee 100% correctness in what I'm sharing. It's rather perspectives on different matters. But I promise that I'll do my best to validate all the information I share. However, I'd suggest that you revisit any references or resources that I'll leave beneath each article.
@@ -46,11 +46,11 @@ I can't guarantee 100% correctness in what I'm sharing. It's rather perspectives
 Constructive criticism is the main driver. I used to fear it sometimes, but experience taught me it's the best way to refine your learning. Meanwhile, sharing these perspectives is my way of leaving a trace of my previous understanding of some concepts. Think of it as version control for ideas. That's why I'd highly encourage any passenger passing by to drop a question or comment. And please avoid praising unless you have something more to elaborate on.
 
 ### New/Old Ecosystem
-This attempt is more or less version control for some ideas, concepts, or thoughts. That's why I preferred to host it on an actual version control system like GitHub, which is publicly available in the trace-in-time repository. I don't have to invent anything for now, as many systems allow this already.
+This attempt is more or less version control for some ideas, concepts, or thoughts. That's why I preferred to host it on an actual version control system like [GitHub](https://github.com/), which is publicly available in the [trace-in-time](https://github.com/imhalawa/trace-in-time) repository. I don't have to invent anything for now, as many systems allow this already.
 
-Using Jekyll as a static content generator. Despite promoting high customizability for the overall look and feel with some effort, as a lazy person, I found this solution to prevent me from chasing perfection again. Another benefit is utilizing Markdown as the main markup language for writing posts. I found this an amazing feature since all I needed was a text editor and git version control's command line to manage the repo.
+Using [Jekyll](https://jekyllrb.com/) as a static content generator. Despite promoting high customizability for the overall look and feel with some effort, as a lazy person, I found this solution to prevent me from chasing perfection again. Another benefit is utilizing Markdown as the main markup language for writing posts. I found this an amazing feature since all I needed was a text editor and [git](https://git-scm.com/) version control's command line to manage the repo.
 
-While looking for the simplest and most readable theme for Jekyll, I found an amazing theme called Minimal Mistakes. My gratitude to the creator—you’re amazing!
+While looking for the simplest and most readable theme for [Jekyll](https://jekyllrb.com/), I found an amazing theme called [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes). My gratitude to the creator—you’re amazing!
 
 Since it's not easy to publish a blog post, I found this a good way to give myself extra time to have a second thought before actually pressing the buttons that would emit unrevised crap.
 
