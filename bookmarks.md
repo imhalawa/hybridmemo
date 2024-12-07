@@ -6,4 +6,3 @@ collection: bookmakrs
 entries_layout: grid
 ---
 
-Stuff that i found useful at some point.

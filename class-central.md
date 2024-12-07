@@ -6,4 +6,3 @@ collection: class-central
 entries_layout: grid
 ---
 
-Sample document listing for the collection `class-central`.
