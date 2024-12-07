@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-01-trace-zero.md",
+                "file": "class-central.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-01-trace-zero"
+              "title": "class-central"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-12-01-trace-zero.md",
+                "file": "class-central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-01-trace-zero"
+              "title": "Backlinks for class-central"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-12-01-trace-zero.md",
+                "file": "class-central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-01-trace-zero"
+              "title": "Outgoing links from class-central"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-12-01-trace-zero.md"
+                "file": "class-central.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-01-trace-zero"
+              "title": "Outline of class-central"
             }
           },
           {
@@ -178,5 +178,17 @@
     }
   },
   "active": "84f246597b92e72e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "categories.md",
+    "reads.md",
+    "_reads",
+    "_class-central",
+    "_bookmarks",
+    "sample/2018-02-25-hidden-post.md",
+    "tags.md",
+    "bookmarks.md",
+    "class-central.md",
+    "posts.md",
+    "_posts/2024-12-01-trace-zero.md"
+  ]
 }
