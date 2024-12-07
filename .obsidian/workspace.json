@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class-central.md",
-                "mode": "source",
-                "source": false
+                "file": "sample/2012-05-22-markup-text-readability.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "class-central"
+              "title": "2012-05-22-markup-text-readability"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class-central.md",
+                "file": "sample/2012-05-22-markup-text-readability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for class-central"
+              "title": "Backlinks for 2012-05-22-markup-text-readability"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class-central.md",
+                "file": "sample/2012-05-22-markup-text-readability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from class-central"
+              "title": "Outgoing links from 2012-05-22-markup-text-readability"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class-central.md"
+                "file": "sample/2012-05-22-markup-text-readability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of class-central"
+              "title": "Outline of 2012-05-22-markup-text-readability"
             }
           },
           {
@@ -179,6 +179,15 @@
   },
   "active": "84f246597b92e72e",
   "lastOpenFiles": [
+    "quotes.md",
+    "reads copy.md",
+    "_quotes",
+    "sample/2012-03-14-layout-hero-image.md",
+    "sample/2010-02-05-post-quote.md",
+    "sample/2010-03-07-post-link.md",
+    "_posts/2024-12-01-trace-zero.md",
+    "sample/2009-05-15-edge-case-nested-and-mixed-lists.md",
+    "class-central.md",
     "categories.md",
     "reads.md",
     "_reads",
@@ -187,8 +196,6 @@
     "sample/2018-02-25-hidden-post.md",
     "tags.md",
     "bookmarks.md",
-    "class-central.md",
-    "posts.md",
-    "_posts/2024-12-01-trace-zero.md"
+    "posts.md"
   ]
 }

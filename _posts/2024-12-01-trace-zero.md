@@ -1,7 +1,7 @@
 ---
-title: "Trace Zero"
+title: Trace Zero
 categories:
-  - Blog
+  - traces
 tags:
   - traces
 ---
