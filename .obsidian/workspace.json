@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sample/2012-05-22-markup-text-readability.md",
-                "mode": "preview",
+                "file": "sample/2013-01-11-markup-html-elements-and-formatting.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2012-05-22-markup-text-readability"
+              "title": "2013-01-11-markup-html-elements-and-formatting"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sample/2012-05-22-markup-text-readability.md"
+                "file": "sample/2013-01-11-markup-html-elements-and-formatting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2012-05-22-markup-text-readability"
+              "title": "Outline of 2013-01-11-markup-html-elements-and-formatting"
             }
           },
           {
@@ -172,30 +172,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-memos:Thino": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "84f246597b92e72e",
   "lastOpenFiles": [
+    "sample/2013-01-10-markup-image-alignment.md",
+    "sample/2012-03-14-layout-hero-image.md",
+    "sample/2009-08-06-edge-case-no-body-content.md",
+    "sample/2009-09-05-edge-case-no-yaml-title.md",
+    "sample/2009-10-05-edge-case-very-long-title.md",
+    "sample/2010-01-07-post-modified.md",
+    "sample/2010-02-05-post-quote.md",
+    "sample/2013-08-16-markup-syntax-highlighting.md",
+    "sample/2013-01-05-markup-title-with-special-characters.md",
+    "sample/2009-07-02-edge-case-many-categories.md",
+    "sample/2010-01-08-post-image.md",
+    "_shots/2010-01-08-post-image.md",
+    "_site/sample/2010-01-08-post-image.html",
+    "_shots/Amsterdam Lights.md",
+    "_site/images/947A3584.jpg",
+    "images/947A3584.jpg",
+    "_site/images/947A3540.jpg",
+    "images/947A3540.jpg",
+    "_site/images/947A3575.jpg",
+    "images/947A3575.jpg",
+    "_site/images/947A3602 1.jpg",
+    "images/947A3602 1.jpg",
+    "_site/images/947A3602.jpg",
+    "images/947A3602.jpg",
+    "shots.md",
+    "_posts/2024-12-07-First-Year-In-Netherlands.md",
+    "_site/shots/index.html",
+    "_site/shots",
+    "_site/shots.md",
+    "_shots",
+    "_site/traces/2024/12/07/First-Year-In-Netherlands.html",
+    "_site/traces/2024/12/07",
+    "_posts/2024-12-01-trace-zero.md",
+    "_site/2024/12/07/First-Year-In-Netherlands.html",
+    "_site/2024/12/07/A-Year-In-Netherlands.html",
+    "_site/2024/12/07",
+    "_site/2024/12",
+    "categories.md",
+    "class-central.md",
+    "sample/2012-05-22-markup-text-readability.md",
     "quotes.md",
     "reads copy.md",
-    "_quotes",
-    "sample/2012-03-14-layout-hero-image.md",
-    "sample/2010-02-05-post-quote.md",
     "sample/2010-03-07-post-link.md",
-    "_posts/2024-12-01-trace-zero.md",
     "sample/2009-05-15-edge-case-nested-and-mixed-lists.md",
-    "class-central.md",
-    "categories.md",
     "reads.md",
-    "_reads",
-    "_class-central",
-    "_bookmarks",
-    "sample/2018-02-25-hidden-post.md",
-    "tags.md",
-    "bookmarks.md",
-    "posts.md"
+    "sample/2018-02-25-hidden-post.md"
   ]
 }
