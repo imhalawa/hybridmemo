@@ -96,6 +96,7 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Post defaults
@@ -112,8 +113,6 @@ defaults:
       type: shots
     values:
       layout: post
-      comments: true
-      share: true
   - scope:
       path: "_reads"
       type: reads
