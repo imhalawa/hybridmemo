@@ -1,5 +1,5 @@
 ---
-title: A Year in netherlands
+title: A Year in Netherlands
 hidden: true
 categories:
   - traces
